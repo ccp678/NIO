@@ -1,0 +1,25 @@
+{
+  "weapons": [
+    {
+      "name": "青竹蜂云剑",
+      "type": "本命法宝",
+      "description": "用珍稀的金雷竹炼制而成，共七十二口，自带辟邪神雷，专克魔功邪术",
+      "source": "炼制",
+      "status": null
+    },
+    {
+      "name": "风雷翅",
+      "type": "飞行法器",
+      "description": "由风雷翅炼制，飞行速度极快，是其跑路保命的利器",
+      "source": "得自风希",
+      "status": null
+    },
+    {
+      "name": "透明丝线",
+      "type": "法器",
+      "description": "几乎无形，弹性与锋利兼备",
+      "source": null,
+      "status": null
+    }
+  ]
+}

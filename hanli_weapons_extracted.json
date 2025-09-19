@@ -1,0 +1,123 @@
+{
+  "weapons": [
+    {
+      "name": "青蛟旗",
+      "type": "顶阶攻击法器",
+      "description": "灵气可化为蛟龙进行攻击",
+      "source": "缴获",
+      "status": null
+    },
+    {
+      "name": "金蚨子母刃",
+      "type": "顶阶攻击法器",
+      "description": "一母八子的成套飞刃，锋利无比",
+      "source": "兑换",
+      "status": null
+    },
+    {
+      "name": "碧绿指环",
+      "type": "法宝",
+      "description": "可以幻化出上百只一模一样的幻影，用于攻击或禁锢",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "白色法旗",
+      "type": "法宝",
+      "description": "可以化为飓风或风龙进行攻击",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "金色飞剑",
+      "type": "法宝",
+      "description": "南陇侯的本命法宝，锋利无比",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "银色小钟",
+      "type": "法宝",
+      "description": "可以发出银色波浪进行攻击",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "千重峰",
+      "type": "古宝",
+      "description": "可以化为山峰进行攻击，威力巨大",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "青竹蜂云剑",
+      "type": "法宝",
+      "description": "韩立的飞剑法宝，锋利异常，可以凝结成巨剑",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "两仪环",
+      "type": "古宝",
+      "description": "可以抵御北极元光，形成防护罩",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "分水旗",
+      "type": "法宝",
+      "description": "可以分开水面，形成通道",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "白色玉佩",
+      "type": "法宝",
+      "description": "可以探测和破除禁制",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "银色飞刀",
+      "type": "法宝",
+      "description": "鲁卫英的飞刀法宝，式样奇特",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "蓝色飞戈",
+      "type": "法宝",
+      "description": "鲁卫英的飞戈法宝，可以化为冰蟒",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "恶鬼傀儡",
+      "type": "傀儡",
+      "description": "天晶真人的傀儡，实力强大",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "银色巨蝠",
+      "type": "灵兽",
+      "description": "东门图的灵兽，用于追踪",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "千里鹂",
+      "type": "灵禽",
+      "description": "南陇侯的灵禽，用于侦察",
+      "source": null,
+      "status": null
+    },
+    {
+      "name": "银毛飞鼠",
+      "type": "灵兽",
+      "description": "紫灵的灵兽，用于追踪",
+      "source": null,
+      "status": null
+    }
+  ]
+}
