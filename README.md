@@ -27,6 +27,7 @@ bert-base-chinese-finetuned-ner
 既然预训练的小模型没有这种分类的类别。
 那么直接使用LLM这种使用大规模数据库进行训练的模型进行命名实体识别。
 需要注意的是需要编写prompt，必须设置好输入和输出，给出示例。
+需要注意的是一次性提取的文档数量不能太多，所以在进行提取之前要先对文章进行切分。可使用split.py实现。
 效果非常好，需要的时间比较长：
 效果文件可以查看hanli_weapons_extracted_test.json和hanli_weapons_extracted.json
 优化：使用线程池并发提取，可以提高速度。
